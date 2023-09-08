@@ -8,7 +8,7 @@ public class HelloWorldController {
 	
 	@GetMapping(path="/")
 	public String sayHello() {
-		return "Welcome to Devops world";
+		return "Welcome to MyWorld world";
 	}
 
 }
